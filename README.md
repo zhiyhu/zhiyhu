@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔮 I'm dabbling into the data analysis of single-cell RNA sequencing, DNA methylation and variant calling
-- 🎉 I'm super excited about single-cell multi-modal
+- 🎉 I'm super excited about using single-cell multi-omics to address biomedical questions
 - 💾 I'm using R (intensively), Python/Snakemake (frequently) and Shell (frequently). Had experience with C and MATLAB but cannot remember much. Always ready to learn new skills if necessary
 
 
